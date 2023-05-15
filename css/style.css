@@ -1,0 +1,60 @@
+/* Created by: Shyla Oommen
+* Created on: May 2023
+* This CSS file defines the style for index.html
+* ICS2O-Programming-Unit5-03-HTML-Factorial
+*/
+
+body {
+  background-color: #1282a2;
+}
+
+h5 {
+  background-color: #fefcfb;
+  text-align: center;
+  border: 2px solid #001f54;
+  color: black;
+  font-weight: bold;
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p {
+  background-color: #fefcfb;
+  border: 2px solid #001f54;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+form {
+  border: 2px solid #001f54;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+#results {
+  background-color: #fefcfb;
+  border: 2px solid #001f54;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+img {
+  float: right;
+  border: 5px solid #001f54;
+}
